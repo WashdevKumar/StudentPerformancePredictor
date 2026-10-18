@@ -1,3 +1,9 @@
+🌐 **Live Demo:** https://washdevstudent.pythonanywhere.com/
+
+💻 **GitHub Repository:** https://github.com/WashdevKumar/StudentPerformancePredictor
+
+# Student Performance Predictor
+
 \# Student Performance Predictor
 
 
